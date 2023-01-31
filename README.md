@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColinWu0403
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... CS 180 - Object Oriented Programming in Java
+- 🌱 I’m currently learning ... CS 182 Foundations of Computer Science and CS240 Programming in C
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... On Github or my email
 
