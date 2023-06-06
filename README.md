@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColinWu0403
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... CS 182 Foundations of Computer Science and CS240 Programming in C
-- 💞️ I’m looking to collaborate on ... Projects
+- 🌱 I’m currently learning ... CS 250 Computer Architecture and CS251 Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on Cool Projects
 - 📫 How to reach me ... On Github or my email
 
 <!---
