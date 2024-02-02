@@ -16,6 +16,13 @@ Hello, I am a student at Purdue University studying Computer Science. <br><br>Ab
   <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ColinWu0403&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  /><br>
+  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=colinwu&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=colinwu&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colinwu&theme=nightowl" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=colinwu&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colinwu&theme=2077" height="180em" />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColinWu0403&radius=16&theme=tokyo-night&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div><br>
 <img src="https://raw.githubusercontent.com/ColinWu0403/ColinWu0403/output/snake.svg" alt="Snake animation" />
