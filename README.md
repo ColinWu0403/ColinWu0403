@@ -14,6 +14,10 @@ Hello, I am a student at Purdue University studying Computer Science. <br><br>Ab
 ![](https://github-readme-stats.vercel.app/api?username=ColinWu0403&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ColinWu0403&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinWu0403&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColinWu0403&radius=16&theme=tokyo-night&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+</div><br>
+<img src="https://raw.githubusercontent.com/ColinWu0403/ColinWu0403/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ColinWu0403&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
