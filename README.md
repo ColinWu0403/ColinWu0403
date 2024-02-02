@@ -2,7 +2,7 @@
 Hello, I am a student at Purdue University studying Computer Science. <br><br>About Me:<br>🎓 I'm currently a Sophomore at Purdue University enrolled in Computer Science, with a minor in Mathematics and Global Engineering Studies with Purdue's Global Engineering Alliance for Research and Education (GEARE).<br><br>💡My journey in Computer Science started with creating games with Scratch and building small projects with Raspberry PI. I also did FIRST Robotics and Arduino during high school.<br><br>🖥️ I have expertise in programming with Java, C, C++, Python, JavaScript, and PHP. For front-end, I have experience creating applications with React and React Native and designing websites with HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects in Django and Rust. I am also familiar with testing local servers and databases with MySQL and XAMPP.<br><br>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science are areas that interest me. However, I'm open to exploring the latest trends and seeking to deepen my knowledge!<br>
 
 ### My involvements:
-🔭 I’m currently working on Artikulate, video-editing and content-generation platform where users can generative AI for story creation or web scrape real articles, resulting in fully edited videos with text-to-speech audio and captions. <br><br>👯 I’m looking to collaborate on interesting projects that could use my expertise.<br><br>🌱 I’m currently learning more of Python, Rust, and Docker. I am also taking CS252 Systems Programming this semester.<br><br>💬 Ask me about anything, I'm always happy to help!<br>
+🔭 I’m currently working on Artikulate, a video-editing and content-generation platform where users can use generative AI for story creation or web scrape real articles, resulting in fully edited videos with text-to-speech audio and captions. <br><br>👯 I’m looking to collaborate on interesting projects that could use my expertise.<br><br>🌱 I’m currently learning more about Python, Rust, and Docker. I am also taking CS252 Systems Programming this semester.<br><br>💬 Ask me about anything, I'm always happy to help!<br>
 
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@ Hello, I am a student at Purdue University studying Computer Science. <br><br>Ab
 
 # Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,Pascal&langs_count=10&theme=nightowl&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages&exclude_repo=Portfolio-Website-ReactJS
+
 # 📊 GitHub Stats:
 <div align="center">
 <!--   <br> -->
