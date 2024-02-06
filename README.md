@@ -29,5 +29,3 @@ Hello, I am a student at Purdue University studying Computer Science. <br><br>Ab
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ColinWu0403&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
