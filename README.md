@@ -2,7 +2,7 @@
 Hello, I am a student at Purdue University studying Computer Science. <br><br>About Me:<br>🎓 I'm currently a Sophomore at Purdue University enrolled in Computer Science, with a minor in Mathematics and Global Engineering Studies with Purdue's Global Engineering Alliance for Research and Education (GEARE).<br><br>💡My journey in Computer Science started with creating games with Scratch and building small projects with Raspberry PI. I also did FIRST Robotics and Arduino during high school.<br><br>🖥️ I have expertise in programming with Java, C, C++, Python, JavaScript, and PHP. For front-end, I have experience creating applications with React and React Native and designing websites with HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects in Django and Rust. I am also familiar with testing local servers and databases with MySQL and XAMPP.<br><br>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science are areas that interest me. However, I'm open to exploring the latest trends and seeking to deepen my knowledge!<br>
 
 ### My involvements:
-🔭 I’m currently working on Artikulate, a video-editing and content-generation platform where users can use generative AI for story creation or web scrape real articles, resulting in fully edited videos with text-to-speech audio and captions. <br><br>👯 I’m looking to collaborate on interesting projects that could use my expertise.<br><br>🌱 I’m currently learning more about Python, Rust, and Docker. I am also taking CS252 Systems Programming this semester.<br><br>💬 Ask me about anything, I'm always happy to help!<br>
+🔭 I’m currently working on Artikulate, a video-editing and content-generation platform where users can use generative AI for story creation or web scrape real articles, resulting in fully edited videos with text-to-speech audio and captions. <br><br>👯 I’m looking to collaborate on interesting projects that could use my expertise.<br><br>🌱 I’m currently learning more about Python, Rust, .NET, and Docker. I am also taking CS252 Systems Programming this semester.<br><br>💬 Ask me about anything, I'm always happy to help!<br>
 
 
 ## 🌐 Socials:
@@ -20,7 +20,7 @@ Hello, I am a student at Purdue University studying Computer Science. <br><br>Ab
 <!--   <br> -->
   <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Pascal&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Pascal&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
   </div><br>
   <img src="https://streak-stats.demolab.com?user=ColinWu0403&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  /><br><br>
 
