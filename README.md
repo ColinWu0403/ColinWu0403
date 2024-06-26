@@ -1,10 +1,6 @@
 # 💫 About Me:
 🎓 Hello! I'm currently a Junior at Purdue University majoring in Computer Science.<br><br>💡My journey in Computer Science started with creating games with Scratch and building small projects with Raspberry PI. I also did FIRST Robotics and Arduino during high school.<br><br>🖥️ I have expertise in programming with Java, C, C++, C#, Python, JavaScript, and PHP. For front-end, I have experience creating applications with React and React Native and designing websites with HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects in Django, Rust, and .NET. I am also familiar with databases with MySQL and CI/CD with Docker.<br><br>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science are areas that interest me. However, I'm open to exploring the latest trends and seeking to deepen my knowledge!<br>
 
-### My involvements:
-🔭 I’m currently working on Artikulate, a video-editing and content-generation platform where users can use generative AI for story creation or web scrape real articles, resulting in fully edited videos with text-to-speech audio and captions. <br><br>👯 I’m looking to collaborate on interesting projects that could use my expertise.<br><br>🌱 I’m currently learning more about Python, Rust, .NET, and Docker. I am also taking CS373 - Data Mining and Machine Learning and CS381 - Introduction to the Analysis of Algorithms this semester.<br><br>💬 Ask me about anything, I'm always happy to help!<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colinwu0403) 
 [![codespaces](https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white)](https://colinwu.me/)
