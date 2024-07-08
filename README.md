@@ -1,28 +1,32 @@
-# 💫 About Me:
-🎓 Hello! I'm currently a Junior at Purdue University majoring in Computer Science.<br><br>💡My journey in Computer Science started with creating games with Scratch and building small projects with Raspberry PI. I also did FIRST Robotics and Arduino during high school.<br><br>🖥️ I have expertise in programming with Java, C, C++, C#, Python, JavaScript, and PHP. For front-end, I have experience creating applications with React and React Native and designing websites with HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects in Django, Rust, and .NET. I am also familiar with databases with MySQL and CI/CD with Docker.<br><br>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science are areas that interest me. However, I'm open to exploring the latest trends and seeking to deepen my knowledge!<br>
+<h1>💫 About Me:</h1> 
+<p>🎓 Hello! I'm currently a Junior at Purdue University majoring in Computer Science.</p>
+<p>💡My journey in Computer Science started with creating games with Scratch and building small projects with Raspberry PI. I also did FIRST Robotics and Arduino during high school.</p>
+<p>🖥️ I have expertise in programming with Java, C, C++, C#, Python, JavaScript, and PHP. For front-end, I have experience creating applications with React and React Native and designing websites with HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects in Django, Rust, and .NET. I am also familiar with databases with MySQL and CI/CD with Docker.</p>
+<p>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science are areas that interest me. However, I'm open to exploring the latest trends and seeking to deepen my knowledge!</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colinwu0403) 
-[![codespaces](https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white)](https://colinwu.me/)
-[![paperclip](https://custom-icon-badges.herokuapp.com/badge/Resume-00c515?style=for-the-badge&logo=paperclip&logoColor=white)](https://colinwu.me/#resume)
-# 💻 Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/Rust-d74400?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+<h2>🌐 Socials:</h2>
+<a href="https://linkedin.com/in/colinwu0403">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://colinwu.me/">
+  <img alt="Website" src="https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white">
+</a>
+<a href="https://colinwu.me/#resume">
+  <img alt="Resume" src="https://custom-icon-badges.herokuapp.com/badge/Resume-00c515?style=for-the-badge&logo=paperclip&logoColor=white">
+</a>
 
-# Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
 <div align="center">
-<!--   <br> -->
   <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Jupyter%20Notebook,Pascal,Dockerfile,Makefile,Vim%20Script,TeX&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
   </div><br>
-  <img src="https://streak-stats.demolab.com?user=ColinWu0403&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  /><br><br>
+  <img src="https://streak-stats.demolab.com?user=ColinWu0403&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"/><br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColinWu0403&radius=16&theme=nightowl&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ColinWu0403&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
+<details>
+  <summary>🏆 GitHub Trophies</summary><br>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ColinWu0403&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"></a>
+</details>
