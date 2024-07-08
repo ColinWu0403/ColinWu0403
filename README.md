@@ -27,6 +27,6 @@
 </div><br>
 
 <details>
-  <summary>🏆 GitHub Trophies</summary><br>
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ColinWu0403&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"></a>
 </details>
