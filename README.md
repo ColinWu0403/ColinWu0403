@@ -17,8 +17,8 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Jupyter%20Notebook,Pascal,Dockerfile,Makefile,Vim%20Script,TeX&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Jupyter%20Notebook,Pascal,Dockerfile,Makefile,Vim%20Script,TeX&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="200" alt="languages graph"  />
 </div><br>
 
 <details>
