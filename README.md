@@ -1,7 +1,7 @@
 <h1>💫 About Me:</h1> 
 <p>🎓 Hello! I'm currently a Junior at Purdue University studying in Computer Science.</p>
 <p>🖥️ I can program with Java, C, C++, C#, Python, JavaScript, and PHP.</p>
-<p>👾 For front-end, I have experience creating applications with React, Vue, and React Native and using HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects using Django, Rust, and ASP.NET. I am also familiar with using databases with MySQL and PostgreSQL.</p>
+<p>👾 For front-end, I have experience creating applications with React, Vue, and React Native and using HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects using Django, Rust, and ASP.NET. I am also familiar with using databases with MySQL, PostgreSQL, and MongoDB.</p>
 <p>🤖 Software Engineering, Computer Engineering, Artificial Intelligence, and Data Science/Machine Learning are areas that interest me. However, I'm always open to exploring the latest trends and seeking to deepen my knowledge!</p>
 
 <h2>🌐 Socials:</h2>
