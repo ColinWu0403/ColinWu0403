@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/colinwu0403">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://colinwu.net/">
+<a href="https://www.colinwu.net/">
   <img alt="Website" src="https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white">
 </a>
 <a href="https://www.colinwu.net/ChiCheColinWuResume.pdf">
