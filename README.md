@@ -1,7 +1,7 @@
 <h1>💫 About Me:</h1> 
 <p>🎓 Hello! I'm currently a Junior at Purdue University studying Computer Science.</p>
-<p>🖥️ I can program with Java, C, C++, C#, Python, JavaScript, and PHP.</p>
-<p>👾 For front-end, I have experience creating applications with React, Vue, and React Native and using HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects using Django, FastAPI, Node.js, and ASP.NET. I am also familiar with using databases such as MySQL, PostgreSQL, and MongoDB.</p>
+<p>🖥️ I can program with Java, C, C++, C#, Python, JavaScript, Swift and PHP.</p>
+<p>👾 For front-end, I have experience creating applications with React.js, Vue.js, and React Native and using HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects using Django, FastAPI, Node.js, and ASP.NET. I am also familiar with using databases such as MySQL, PostgreSQL, and MongoDB.</p>
 <p>🤖 I've also had experience using Data Science and Machine Learning technologies like TensorFlow, Pytorch, scikit-learn, HuggingFace, LangChain, Transformers, Pandas, and NumPy.</p>
 <p>🧠 Software Engineering, Embedded Systems, Artificial Intelligence, and Data Science/Machine Learning are areas that interest me. However, I'm always open to exploring the latest trends and seeking to deepen my knowledge!</p>
 
@@ -20,7 +20,8 @@
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=ColinWu0403&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinWu0403&locale=en&hide_title=false&layout=compact&card_width=320&hide=Hack,HTML,CSS,Jupyter%20Notebook,Pascal,Dockerfile,Makefile,Vim%20Script,TeX&langs_count=12&theme=nightowl&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="200" alt="languages graph"  />
-</div><br>
+</div>
+<br>
 
 <details>
   <summary><h3>📅 Show Streak</h3></summary>
