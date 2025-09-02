@@ -3,7 +3,7 @@
 <p>🖥️ I can program with Java, C, C++, C#, Python, JavaScript, Swift and PHP.</p>
 <p>👾 For front-end, I have experience creating applications with React.js, Vue.js, and React Native and using HTML, CSS, JavaScript, and TypeScript. For back-end, I've created projects using Django, FastAPI, Node.js, and ASP.NET. I am also familiar with using databases such as MySQL, PostgreSQL, and MongoDB.</p>
 <p>🤖 I've also had experience using Data Science and Machine Learning technologies like TensorFlow, Pytorch, scikit-learn, HuggingFace, LangChain, Transformers, Pandas, and NumPy.</p>
-<p>🧠 Software Engineering, Embedded Systems, Artificial Intelligence, and Data Science/Machine Learning are areas that interest me. However, I'm always open to exploring the latest trends and seeking to deepen my knowledge!</p>
+<p>🧠 Software Engineering, Artificial Intelligence, Robotics, and Data Science/Machine Learning are areas that interest me. However, I'm always open to exploring the latest trends and seeking to deepen my knowledge!</p>
 
 <h2>🌐 Socials:</h2>
 <a href="https://linkedin.com/in/colinwu0403">
