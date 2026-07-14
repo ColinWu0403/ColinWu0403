@@ -2,7 +2,7 @@
 
 - I'm Colin, and I am an M.S. in Computer Science student at [Texas A&M University](https://www.tamu.edu/). I previously graduated with my B.S. in Computer Science from [Purdue University](https://purdue.edu/).
 - My interests include Human-Computer Interaction, Natural Language Processing, Machine Learning, Embedded Systems, Bioinformatics, and other fields in CS.
-- My (non CS) interests include music (listening & producing: [my SoundCloud](https://soundcloud.com/lyenzmusic)), table tennis, ~~touching grass~~ (going on hikes), and writing ([my blog](https://www.colinwu.net/blog)).
+- My (non CS) interests include music (listening & producing: [my SoundCloud](https://soundcloud.com/lyenzmusic)), table tennis, ~~touching grass~~ (walking/hiking in nature), and writing ([my blog](https://www.colinwu.net/blog)).
 
 You can check out [my website](https://www.colinwu.net) for more information.
 
