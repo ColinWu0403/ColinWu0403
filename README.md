@@ -8,16 +8,16 @@ You can check out [my website](https://www.colinwu.net) for more information.
 
 Feel free to reach out to me on my socials; I'd love to talk to you!
 
-<a href="https://linkedin.com/in/colinwu0403">
+<a target="_blank" href="https://linkedin.com/in/colinwu0403">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.colinwu.net/">
+<a target="_blank" href="https://www.colinwu.net/">
   <img alt="Website" src="https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white">
 </a>
-<a href="mailto:colinwu@tamu.edu">
+<a target="_blank" href="mailto:colinwu@tamu.edu">
   <img alt="Mail" src="https://custom-icon-badges.herokuapp.com/badge/mail-810000?style=for-the-badge&logo=mail&logoColor=white">
 </a>
-<a href="https://www.colinwu.net/ChiCheColinWuResume.pdf">
+<a target="_blank" href="https://www.colinwu.net/ChiCheColinWuResume.pdf">
   <img alt="Resume" src="https://custom-icon-badges.herokuapp.com/badge/Resume-00c515?style=for-the-badge&logo=paperclip&logoColor=white">
 </a>
 
