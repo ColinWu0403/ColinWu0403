@@ -14,7 +14,7 @@ Feel free to reach out to me on my socials; I'd love to talk to you!
 <a href="https://www.colinwu.net/">
   <img alt="Website" src="https://custom-icon-badges.herokuapp.com/badge/Website-0a00ba?style=for-the-badge&logo=codespaces&logoColor=white">
 </a>
-<a href="https://www.colinwu.net/ChiCheColinWuResume.pdf">
+<a href="mailto:colinwu@tamu.edu">
   <img alt="Mail" src="https://custom-icon-badges.herokuapp.com/badge/mail-810000?style=for-the-badge&logo=mail&logoColor=white">
 </a>
 <a href="https://www.colinwu.net/ChiCheColinWuResume.pdf">
