@@ -21,6 +21,8 @@ Feel free to reach out to me on my socials; I'd love to talk to you!
   <img alt="Resume" src="https://custom-icon-badges.herokuapp.com/badge/Resume-00c515?style=for-the-badge&logo=paperclip&logoColor=white">
 </a>
 
+<img src="koi/koi.gif" width="256" alt="My koi">
+
 <!-- <details>
   <summary><h3> Github Stats</h3></summary>
   <div style="display: flex; flex-direction: row;">
